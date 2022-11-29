@@ -1,0 +1,1 @@
+npm start in API and CLIENT folders.
